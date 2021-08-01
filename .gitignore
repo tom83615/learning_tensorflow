@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VScode
+*.code-workspace
+.vscode/
+
+# tensorflow
+MNIST_data/
+saveModel/
+tensorboard/
